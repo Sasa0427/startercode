@@ -99,6 +99,7 @@ int8_t AddPatient(char patientName[MAX_PATIENTNAME_SIZE])
 		
 		
 	}
+	return 0;
 	
 	
 }
